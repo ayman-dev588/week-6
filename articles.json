@@ -1,0 +1,53 @@
+{
+    "articles": [
+        {
+            "id" : 1,
+            "title": "NASA launches spacecraft to gauge if Jupiter’s moon Europa can host life - Hawaii Tribune-Herald",
+            "bias": "center",
+            "factuality": "High Factuality",
+            "url": "https://www.hawaiitribune-herald.com/2024/10/15/nation-world-news/nasa-launches-spacecraft-to-gauge-if-jupiters-moon-europa-can-host-life/"
+        },
+        {
+          "id" : 2,
+          "title": "NASA launches probe to Europa",
+          "bias": "lean-left",
+          "factuality": "High Factuality",
+          "url": "https://greensboro.com/nasa-launches-probe-to-europa/article_adfd520a-ac14-576d-b6c2-87ba1a1265a2.html"
+        },
+        {
+          "id" : 3,
+            "title": "Nasa launches bid to find life on Jupiter’s moon",
+          "bias": "lean-left",
+          "factuality": "Mixed Factuality",
+          "url": "https://www.dawn.com/news/1865264"
+        },
+        {
+          "id" : 4,
+            "title": "NASA launches probe to see if life possible on Jupiter moon",
+          "bias": "lean-right",
+          "factuality": "Mixed Factuality",
+          "url": "https://dnyuz.com/2024/10/14/nasa-launches-probe-to-see-if-life-possible-on-jupiter-moon/"
+        },
+        {
+          "id" : 5,
+            "title": "What NASA hopes to accomplish with Europa Clipper mission",
+          "bias": "lean-left",
+          "factuality": "High Factuality",
+          "url": "https://www.cbsnews.com/video/what-nasa-hopes-to-accomplish-europa-clipper-mission/"
+        },
+        {
+          "id" : 6,
+            "title": "SpaceX uses giant arms to grab Falcon Heavy on landing",
+          "bias": "center",
+          "factuality": "High Factuality",
+          "url": "https://www.fox35orlando.com/video/1531881"
+        },
+        {
+         "id" : 7,
+            "title": "NASA spacecraft flies to Jupiter's moon Europa in search of key to life",
+          "bias": "center",
+          "factuality": "High Factuality",
+          "url": "https://www.voachinese.com/a/nasa-spacecraft-flies-to-jupiter-20241014/7822178.html"
+        }
+    ]
+  }
